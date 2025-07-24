@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou a Letícia Martuscelli 👩🏻‍💻
 
-<!--
-**LeleMartuscelli/LeleMartuscelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💡 Apaixonada por tecnologia, **Back-end** e **Cloud (AWS)**  
+🚀 Em constante aprendizado e evolução
 
-Here are some ideas to get you started:
+## 💻 Tecnologias que estou estudando:
+- Lógica de programação
+- Fundamentos de **Back-end**
+- **Amazon Web Services (AWS)**
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente:
+- Desenvolvendo projetos práticos para fortalecer o portfólio
+- Me aprofundando em conceitos de cloud e infraestrutura
+
+## 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-martuscelli-300921203/)
