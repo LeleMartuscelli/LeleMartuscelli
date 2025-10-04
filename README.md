@@ -4,7 +4,7 @@
 
 <!--Cabeçalho-->
 <div align="center">
- <h1>Bootcamp Santander Code Girls 2025</h1>
+ <h1>Bootcamp Santander Code Girls 2025 - Minha Tragetória </h1>
 </div>
 
 <!--Sobre mim--> 
@@ -49,3 +49,29 @@
 <hr>
 
 <h3 aling="left"> Ferramentas e Tecnologia</h3>
+
+<p align="center">
+  <!-- AWS -->
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="60" style="margin: 0 15px;"/>
+  
+  <!-- HTML -->
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="60" style="margin: 0 15px;"/>
+  
+  <!-- Amazon S3 -->
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" alt="Amazon S3" width="60" style="margin: 0 15px;"/>
+  
+  <!-- AWS Lambda -->
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" alt="AWS Lambda" width="60" style="margin: 0 15px;"/>
+  
+  <!-- Amazon EC2 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/AWS_Simple_Icons_Compute_Amazon_EC2_Instances.svg" alt="Amazon EC2" width="60" style="margin: 0 15px;"/>
+  
+  
+  <!-- GitHub -->
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub" width="60" style="margin: 0 15px;"/>
+  
+  <!-- VS Code -->
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" style="margin: 0 15px;"/>
+</p>
+
+
