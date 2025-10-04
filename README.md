@@ -36,4 +36,16 @@
 </p>
 
 <hr>
+<h3 aling="left"> Vantagens de Cada Serviço:</h3>
 
+◦ <strong>Amazon EC2:</strong> recebe a imagem no upload e pode realizar validações iniciais. Vantagem → dá flexibilidade para rodar aplicações personalizadas e ter controle sobre o ambiente.
+
+◦ <strong>Amazon S3:</strong> armazena a imagem original e a processada. Vantagem → armazenamento altamente escalável, seguro e com custo baixo.
+
+◦ <strong>AWS Lambda:</strong> processa a imagem automaticamente quando detecta novos arquivos no S3. Vantagem → não precisa gerenciar servidores, paga apenas pelo uso e escala conforme a demanda.
+
+◦ <strong>Usuário:</strong> acessa o resultado final de forma simples, sem precisar se preocupar com a infraestrutura por trás.
+
+<hr>
+
+<h3 aling="left"> Ferramentas e Tecnologia</h3>
