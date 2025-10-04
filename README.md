@@ -1,17 +1,28 @@
  <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="60px"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" title="AWS" alt="AWS" width="140px"/>
 </p>
+
 <!--Cabeçalho-->
 <div align="center">
  <h1>Bootcamp Santander Code Girls 2025</h1>
 </div>
 
-<div id="sobre-mim" align="center">
+<!--Sobre mim--> 
+<h3 align="left">🙋‍♀️ Sobre mim:</h3> 
+<p align="left">
+  Olá! Eu sou a <strong>Letícia Martuscelli de Moraes</strong>, estudante de
+  <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
+  Apaixonada por tecnologia e em constante aprendizado.<br>
+  Estudando <strong>Cloud</strong> com foco em <strong>AWS</strong> e documentando
+  meus aprendizados e desafios.
+</p>
 
-  <h2>Sobre mim</h2>
-
-<p>
- Olá! Eu sou a Letícia Martuscelli de Moraes, estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonada por tecnologia e movida por curiosidade, estou sempre em constante aprendizado e buscando evoluir um pouco a cada dia.
-Neste momento, estou me aprofundando em Computação em Nuvem, mais especificamente em AWS. Aqui no repositório registro meus conhecimentos e desafios.<strong>
-  </p>
- 
+ <!--Desenvolvimento do repositório-->
+<hr>
+<h3 aling="left">🎯 Objetivo:</h3>
+<p aling="left">
+ ◦ Documentar aprendizado.<br>
+ ◦ Consolidar conhecimentos em AWS com labs práticos.<br>
+ ◦ Manter um portfólio público e organizado que evidencie minha evolução em AWS.
+<hr>
+<h3 align="left">Arquitetura AWS criada</h3>
