@@ -74,4 +74,11 @@
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" style="margin: 0 15px;"/>
 </p>
 
+<hr>
+<h3 aling="left"> Contato:</h3>
 
+<p aling="letf">
+💼 <strong>Linkedln:</strong>
+ <br>
+💻 <strong>GitHub:</strong>
+</p>
