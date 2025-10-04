@@ -79,6 +79,8 @@
 
 <p aling="letf">
 💼 <strong>Linkedln:</strong>
- <br>
+  <a href="https://www.linkedin.com/in/let%C3%ADcia-martuscelli-300921203/" target="_blank">Letícia Martuscelli</a>
+  <br>
 💻 <strong>GitHub:</strong>
+  <a href="https://github.com/LeleMartuscelli/" target="_blank">LeleMaruscelli</a>
 </p>
