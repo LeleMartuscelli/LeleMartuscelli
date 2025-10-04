@@ -8,7 +8,8 @@
 </div>
 
 <!--Sobre mim--> 
-<h3 align="left">🙋‍♀️ Sobre mim:</h3> 
+<hr> 
+<h3 aling="left">🙋‍♀️ Sobre mim:</h3>
 <p align="left">
   Olá! Eu sou a <strong>Letícia Martuscelli de Moraes</strong>, estudante de
   <strong>Análise e Desenvolvimento de Sistemas</strong>.<br>
@@ -25,4 +26,14 @@
  ◦ Consolidar conhecimentos em AWS com labs práticos.<br>
  ◦ Manter um portfólio público e organizado que evidencie minha evolução em AWS.
 <hr>
-<h3 align="left">Arquitetura AWS criada</h3>
+
+
+### Arquitetura AWS criada
+![Arquitetura AWS](imagesarquitetura-aws.png)
+<p align="center">
+  <br>
+  <em>Usuário → EC2 → S3 (entrada) → Lambda → S3 (processadas)</em>
+</p>
+
+<hr>
+
